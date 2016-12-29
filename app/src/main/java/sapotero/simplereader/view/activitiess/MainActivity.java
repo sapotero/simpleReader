@@ -1,7 +1,9 @@
-package sapotero.simplereader;
+package sapotero.simplereader.view.activitiess;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import sapotero.simplereader.R;
 
 public class MainActivity extends AppCompatActivity {
 
