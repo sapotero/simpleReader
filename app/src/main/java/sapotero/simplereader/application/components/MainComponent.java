@@ -7,7 +7,7 @@ import javax.inject.Singleton;
 
 import dagger.Component;
 import sapotero.simplereader.application.modules.MainModule;
-import sapotero.simplereader.view.activitiess.MainActivity;
+import sapotero.simplereader.view.activities.MainActivity;
 
 @Singleton
 @Component(modules = {
