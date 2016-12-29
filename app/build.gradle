@@ -76,6 +76,10 @@ dependencies {
     compile 'org.greenrobot:eventbus:3.0.0'
     compile 'com.birbit:android-priority-jobqueue:2.0.1'
 
+    //Recycle + Card
+    compile 'com.android.support:cardview-v7:24.2.1'
+    compile 'com.android.support:recyclerview-v7:24.2.1'
+
 
     // Requery
     compile 'io.requery:requery:1.0.0'
